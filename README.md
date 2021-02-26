@@ -1,0 +1,2 @@
+# Code-Refactor-HW
+I have looked at the original code of the Horiseon Social Solution Services website, and made a few changes regarding alt-text and overall format of the code. This website is now more accessible to those who are blind and deaf, as the alt text can read to the viewer what is written in the text. I have also cleaned up the structure of the code, by eliminating code that wasn't needed, and by organizing the code in a cleaner fashion.
